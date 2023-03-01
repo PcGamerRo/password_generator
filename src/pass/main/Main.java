@@ -14,5 +14,6 @@ public class Main {
         System.out.println(password1);
         System.out.println(password2);
         System.out.println(password3);
+
     }
 }
